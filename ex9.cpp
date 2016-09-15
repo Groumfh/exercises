@@ -3,8 +3,7 @@
 #include <thread>
 #include <atomic>
 
-class C;
-// ?
+// declare something here?
 
 class B {
 public:
