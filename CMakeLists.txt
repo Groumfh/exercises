@@ -35,5 +35,6 @@ declare_exercise(ex5 ex5.cpp)
 declare_exercise(ex6 ex6.cpp)
 declare_exercise(ex7 ex7.cpp)
 declare_exercise(ex8 ex8.cpp)
+declare_exercise(ex9 ex9.cpp)
 declare_exercise(ex10 ex10.cpp)
 
